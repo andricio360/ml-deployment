@@ -1,0 +1,13 @@
+joblib==1.3.2
+requests==2.31.0
+setuptools==68.2.2
+numpy
+fastapi
+scikit-learn
+pandas
+scipy==1.12.0
+threadpoolctl==3.3.0
+loguru
+uvicorn
+mlflow
+evidently
